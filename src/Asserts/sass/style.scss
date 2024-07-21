@@ -39,6 +39,11 @@
   line-height: 1.66;
   padding-left: 15px;
 }
+.center-search {
+  display: flex;
+  justify-content: center;
+}
+
 @media screen and (max-width: 600px) {
   .css-1qymz6u-MuiGrid-root > .MuiGrid-item {
     padding-left: 0px !important;
